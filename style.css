@@ -1,0 +1,39 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: black;
+    font-size: 1.5rem;
+}
+
+p {
+    color:black;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+ 
+body {
+    background-image: url('javier-martinez-hUD0PUczwJQ-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+h1 { color: red;
+    outline-color: black;
+    outline-width: 2px;
+    font-size: 3; 
+}
+
+
+
+h3 { color:black
+
+     
+}
